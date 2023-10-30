@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **gastuconsoli8@gmail.com**
 
-- 🚀 My portfolio **https://portfolio-gjrc.firebaseapp.com/**
+- 🚀 My portfolio **https://portfolio-gjrc.web.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
